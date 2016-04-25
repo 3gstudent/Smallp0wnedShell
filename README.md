@@ -2,9 +2,9 @@
 
 Small modification version of PowerShell Runspace Post Exploitation Toolkit (p0wnedShell)
 
-###p0werShell Author: Cn33liz and Skons
+###p0wnedShell Author: Cn33liz and Skons
 
-###p0werShell Source: https://github.com/Cn33liz/p0wnedShell
+###p0wnedShell Source: https://github.com/Cn33liz/p0wnedShell
 
 License: BSD 3-Clause
 
