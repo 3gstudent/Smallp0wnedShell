@@ -1,7 +1,5 @@
 # Smallp0wnedShell
 
----
-
 Small version of PowerShell Runspace Post Exploitation Toolkit 
 
 ###p0werShell Author: Cn33liz and Skons
