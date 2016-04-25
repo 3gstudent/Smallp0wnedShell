@@ -15,7 +15,7 @@ License: BSD 3-Clause
 ![Alt text](/p0wnedShell/Smallp0wnedShell.ico?raw=true "Smallp0wnedShell")
 
 
-### What is it:
+### What is Smallp0wnedShell:
 
 Small version of p0werShell.
 
@@ -35,5 +35,5 @@ Reduce the size to 32kb
 ### Contact:
 
 To report an issue or request a feature, feel free to contact me at:
-Cornelis ```at``` dePlaa.com or [@Cn33lis](https://twitter.com/Cneelis)
+[@3gstudent](https://twitter.com/3gstudent)
 
