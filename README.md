@@ -1,6 +1,6 @@
 # Smallp0wnedShell
 
-Small modification version of PowerShell Runspace Post Exploitation Toolkit (p0werShell)
+Small modification version of PowerShell Runspace Post Exploitation Toolkit (p0wnedShell)
 
 ###p0werShell Author: Cn33liz and Skons
 
@@ -17,11 +17,11 @@ License: BSD 3-Clause
 
 p0werShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET). 
 
-Smallp0wnedShell is just a small modification version of p0werShell.
+Smallp0wnedShell is just a small modification version of p0wnedShell.
 
 ### What is different:
 
-[+] Remove all the offensive PowerShell modules and binaries of p0werShell
+[+] Remove all the offensive PowerShell modules and binaries of p0wnedShell
 
 
 [+] Convert .NET Framework 4.0 to 2.0
